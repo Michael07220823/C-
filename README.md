@@ -1,1 +1,1 @@
-# OpenCV-C
+# opencv-c
